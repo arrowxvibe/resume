@@ -14,7 +14,7 @@ Results-driven Senior Software Engineer with 4+ years of experience in full-stac
 **TECHNICAL SKILLS**
 
 - **Programming Languages**: Java (Intermediate), JavaScript (Intermediate), Python (Beginner), C++ (Beginner)
-- **Frameworks & Libraries**: Spring, Spring Boot, Spring MVC, React.js, JQuery, Material UI, Thymeleaf, Redux
+- **Frameworks & Libraries**: Spring, Spring Boot, Spring MVC, React.js, JQuery, Material UI, Thymeleaf
 - **Database Management**: MongoDB, MySQL
 - **Testing Tools**: JUnit, Mockito, Postman (API Automation Testing)
 - **DevOps & Tools**: Git, Docker, Kubernetes (GKE), Jenkins, CI/CD Pipelines
