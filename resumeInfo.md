@@ -63,7 +63,7 @@ B.Tech in Electronics and Communication Engineering
 **Sri Chaitanya, Hyderabad**  
 Intermediate (11th and 12th Standard)  
 *2014-2016*  
-- Percentage: 98.2%  
+- Board Exam Percentage: 98.2%  
 - JEE Rank: 17031 AIR
 
 **Swarnandhra International School, Narsapur**  
