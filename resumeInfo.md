@@ -7,15 +7,15 @@ Bengaluru, Karnataka
 
 **PROFESSIONAL SUMMARY**
 
-Results-driven Senior Software Engineer with 4+ years of experience in full-stack development, system migrations, and microservices architecture. Proficient in Java, Spring Boot, React.js, and Kubernetes, with expertise in API development, legacy system modernization, and CI/CD processes. Proven ability to deliver scalable solutions, enhance performance, and streamline development processes. Recognized for exceptional contributions and awarded multiple accolades for outstanding performance.
+Results-driven Senior Software Engineer with 4+ years of experience in full-stack development, system migrations, and microservices architecture. Proficient in Java, Spring Boot, React, and Kubernetes, with expertise in API development, legacy system modernization, and CI/CD processes. Proven ability to deliver scalable solutions, enhance performance, and streamline development processes. Recognized for exceptional contributions and awarded multiple accolades for outstanding performance.
 
 ---
 
 **TECHNICAL SKILLS**
 
 - **Programming Languages**: Java (Intermediate), JavaScript (Intermediate), Python (Beginner), C++ (Beginner)
-- **Frameworks & Libraries**: Spring, Spring Boot, Spring MVC, React.js, JQuery, Material UI, Thymeleaf
-- **Database Management**: MongoDB, MySQL
+- **Frameworks & Libraries**: Spring, Spring Boot, Spring MVC, React, JQuery, Material UI, Thymeleaf
+- **Database Management**: MongoDB, MySQL, Firestore, Redis
 - **Testing Tools**: JUnit, Mockito, Postman (API Automation Testing)
 - **DevOps & Tools**: Git, Docker, Kubernetes (GKE), Jenkins, CI/CD Pipelines
 - **Other Technologies**: HTML, CSS, JSON, REST APIs, Formik
@@ -97,6 +97,13 @@ Intermediate (11th and 12th Standard)
 - [Udemy: React - The Complete Guide (incl Hooks, React Router)](https://www.udemy.com/certificate/UC-dc7ef6ad-f1f6-45ff-8636-5991b096e40b/)
 
 ---
+
+**PUBLICATIONS**
+
+- [IEEE: Smart Agriculture Implementation using IoT and Leaf Disease Detection using Logistic Regression](https://ieeexplore.ieee.org/document/9633608)
+
+---
+
 
 **ADDITIONAL INFORMATION** *(Optional)*
 
